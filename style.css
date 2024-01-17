@@ -483,24 +483,24 @@ footer{
              }
              .al-choose{
                
-                margin: 10px 20px 10px -100px;
+                margin: 10px 20px 10px -80px;
                 text-wrap: wrap;
              }
              .hotel{
                 width:100%;
-                margin: 10px 10px 10px -90px;
+                margin: 10px 10px 10px -50px;
                 padding: 10px;
                 
              }
              .world {
                 width: 100%;
-                margin: 10px 30px 10px -90px;
+                margin: 10px 30px 10px -50px;
                 padding: 10px;
              }
              .hotele{
                 width: 100%;
                 padding: 10px;
-                 margin: 10px;
+                 margin: 20px;
              }
              .footer{
                 width: 100%;
@@ -523,7 +523,7 @@ footer{
             .div{
                width: 100%;
                padding:60px;
-               margin: -80px;
+               
                margin-top: 20px;
             }
             .letter{
